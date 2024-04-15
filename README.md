@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @heib6xinyu
 - 👀 I’m interested in computer science, data science, with a specific interest in Machine Learning.
-- 🌱 I’m currently learning Parallel Computing: Machine Learning System Implementation.
+- 🌱 I’m currently learning Active Inference.
 - 💞️ I’m looking to collaborate on ANYTHING.
 - 📫 How to reach me
 -     Email: heib6xinyu@gmail.com
