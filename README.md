@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @heib6xinyu
 - 👀 I’m interested in computer science, data science, with a specific interest in Machine Learning.
 - 🌱 I’m currently learning Active Inference.
-- 💞️ I’m looking to collaborate on ANYTHING.
+- 💞️ I’m looking to collaborate on ML topic, game script topic.
 - 📫 How to reach me
 -     Email: heib6xinyu@gmail.com
 -     cell: 5858513799
